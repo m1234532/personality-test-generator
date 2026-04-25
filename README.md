@@ -31,7 +31,16 @@
 
 👉 [在线体验](https://prompt-demo-de7mccev.edgeone.cool)
 
-<!-- 截图占位：首页 + 结果页 -->
+<table>
+  <tr>
+    <td><img src="images/personality-test-generator-1.png" width="300"></td>
+    <td><img src="images/personality-test-generator-2.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="images/personality-test-generator-3.png" width="300"></td>
+    <td><img src="images/personality-test-generator-4.png" width="300"></td>
+  </tr>
+</table>
 
 ## 🧠 Prompt 设计
 
