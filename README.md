@@ -34,7 +34,7 @@
 
 > 将单身状态比喻为"基因序列"——每个人的单身原因不是随机的，而是由多个心理维度组合而成的稳定模式。36 种基因序列，解密你的单身密码。
 
-👉 [在线体验](https://prompt-demo-de7mccev.edgeone.cool)
+👉 [在线体验](https://m1234532.github.io/personality-test-generator/)
 
 <table>
   <tr>
